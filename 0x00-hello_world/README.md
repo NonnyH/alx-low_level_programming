@@ -1,1 +1,1 @@
-Compile file but do not link
+Generate assembly code and save in output file
