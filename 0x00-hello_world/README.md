@@ -1,1 +1,1 @@
-Compile a file and create an executable
+Print exact words followed by a new line
