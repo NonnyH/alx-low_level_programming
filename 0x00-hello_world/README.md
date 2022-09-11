@@ -1,1 +1,1 @@
-Print exact words followed by a new line
+Print exact words followed by new line
