@@ -1,1 +1,1 @@
-Writing second program
+prints the size of various types
